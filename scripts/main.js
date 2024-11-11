@@ -1,8 +1,12 @@
 //drills
 Blocks.mechanicalDrill.drillTime=0.1
+Blocks.mechanicalDrill.hardnessDrillMultiplier=0.1
 Blocks.pneumaticDrill.drillTime=0.1
+Blocks.pneumaticDrill.hardnessDrillMultiplier=0.1
 Blocks.laserDrill.drillTime=0.1
+Blocks.laserDrill.hardnessDrillMultiplier=0.1
 Blocks.blastDrill.drillTime=0.1
+Blocks.blastDrill.hardnessDrillMultiplier=0.1
 Blocks.plasmaBore.drillTime=0.1
 Blocks.impactDrill.drillTime=0.1
 Blocks.largePlasmaBore.drillTime=0.1
