@@ -1,0 +1,9 @@
+//drills
+Blocks.mechanicalDrill.drillTime=0
+Blocks.pneumaticDrill.drillTime=0
+Blocks.laserDrill.drillTime=0
+Blocks.blastDrill.drillTime=0
+Blocks.plasmaBore.drillTime=0
+Blocks.impactDrill.drillTime=0
+Blocks.largePlasmaBore.drillTime=0
+Blocks.eruptionDrill.drillTime=0
