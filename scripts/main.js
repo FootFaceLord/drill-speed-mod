@@ -11,3 +11,5 @@ Blocks.plasmaBore.drillTime=1
 Blocks.impactDrill.drillTime=1
 Blocks.largePlasmaBore.drillTime=1
 Blocks.eruptionDrill.drillTime=1
+Blocks.eruptionDrill.drillTime=1
+Blocks.cliffCrusher.drillTime=1
